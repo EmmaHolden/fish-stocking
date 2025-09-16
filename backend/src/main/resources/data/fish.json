@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Angelfish",
+    "typeOfFish": "CICHLID",
+    "minTemp": 23,
+    "maxTemp": 29,
+    "minLitres": 110,
+    "minPH": 6,
+    "maxPH": 7.5,
+    "level": ["MIDDLE"]
+  },
+  {
+    "name": "Betta",
+    "typeOfFish": "LABYRINTH",
+    "minTemp": 24,
+    "maxTemp": 27,
+    "minLitres": 37,
+    "minPH": 6.8,
+    "maxPH": 8,
+    "level": ["TOP"]
+  },
+  {
+    "name": "Blackfin Pearlfish",
+    "typeOfFish": "KILLIFISH",
+    "minTemp": 17,
+    "maxTemp": 23,
+    "minLitres": 45,
+    "minPH": 6,
+    "maxPH": 7,
+    "level": ["BOTTOM", "MIDDLE"]
+  },
+  {
+    "name": "Chilli Rasbora",
+    "typeOfFish": "RASBORA",
+    "minTemp": 23,
+    "maxTemp": 28,
+    "minLitres": 37,
+    "minPH": 6,
+    "maxPH": 7.5,
+    "level": ["TOP", "MIDDLE"]
+  },
+  {
+    "name": "Glass Catfish",
+    "typeOfFish": "CATFISH",
+    "minTemp": 21,
+    "maxTemp": 26,
+    "minLitres": 110,
+    "minPH": 6.5,
+    "maxPH": 7.5,
+    "level": ["MIDDLE"]
+  },
+  {
+    "name": "Panda Garra",
+    "typeOfFish": "UNKNOWN",
+    "minTemp": 18,
+    "maxTemp": 26,
+    "minLitres": 80,
+    "minPH": 6.5,
+    "maxPH": 7.5,
+    "level": ["BOTTOM"]
+  }
+]
